@@ -1,0 +1,9 @@
+{
+    "name": "TokenCreationTest",
+    "symbol": "TOKENTEST",
+    "description": "Testing the features of token creation and transfer of ownership.",
+    "image": "https://raw.githubusercontent.com/arathia-github/test-token/main/test-logo.png",
+    "external_url": "",
+    "creators": null,
+    "seller_fee_basis_points": 0
+  }
